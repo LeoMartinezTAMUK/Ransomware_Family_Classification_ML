@@ -51,7 +51,7 @@ The model's performance is evaluated using the classification report, confusion 
 
 The training and validation accuracy are plotted and saved as `training_validation_accuracy_plot.png`. The confusion matrix heatmap is saved as `Heatmap_400dpi.png`.
 ![DNN Training Graph](images/training_validation_accuracy_plot.png)
-![Normalized Heatmap](imagesHeatmap_400dpi.png)
+![Normalized Heatmap](images/Heatmap_400dpi.png)
 
 ### Note:
 
