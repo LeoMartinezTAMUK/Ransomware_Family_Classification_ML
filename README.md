@@ -42,7 +42,7 @@ The dataset used for this project is the Ransomware RISS Dataset, which is acces
 ### Training:
 
 The model is compiled with the Adam optimizer and sparse categorical cross-entropy loss function. It is trained for 10 epochs with a batch size of 16. Early stopping is used with a patience of 6 to prevent overfitting.
-![DNN Training Graph](training_validation_accuracy_plot.png)
+![DNN Training Graph](images/training_validation_accuracy_plot.png)
 
 ### Evaluation:
 
