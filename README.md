@@ -6,7 +6,7 @@
 
 **Created:** Summer 2024
 
-To close this repository:
+To clone this repository:
 
 ```
 git clone https://github.com/LeoMartinezTAMUK/Ransomware_Family_Classification_ML.git
