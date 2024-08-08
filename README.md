@@ -6,6 +6,13 @@
 
 **Created:** Summer 2024
 
+To close this repository:
+
+```
+git clone https://github.com/LeoMartinezTAMUK/Ransomware_Family_Classification_ML.git
+
+```
+
 ---
 
 This Python program implements a Deep Neural Network (DNN) for classifying ransomware families using the Ransomware RISS Dataset. The dataset provides various features to analyze ransomware and classify it into different families.
