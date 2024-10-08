@@ -69,5 +69,5 @@ Here is a brief explanation of the items:
 - **images:** contains the generated DNN training graph and confusion matrix heatmap (dataset is provided as a link due to size)
 - **dataset_info:** provides more context regarding the dataset from the original authors of the dataset
 - **README.md:** contains most basic information about the project
-- **LICENSE:** Contains license information in regards to the Github repository
+- **LICENSE:** contains license information in regards to the Github repository
 
